@@ -1,0 +1,453 @@
+[
+    {
+      "State": "Alabama",
+      "WDI State": "Q173",
+      "WDI Legislature": "Q3270265",
+      "Abbreviation": "AL",
+      "Official Website": "https://www.alabama.gov/",
+      "Legislature": "https://alison.legislature.state.al.us/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Alaska",
+      "WDI State": "Q797",
+      "WDI Legislature": "Q719894",
+      "Abbreviation": "AK",
+      "Official Website": "https://alaska.gov/",
+      "Legislature": "https://w3.akleg.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Arizona",
+      "WDI State": "Q816",
+      "WDI Legislature": "Q2747172",
+      "Abbreviation": "AZ",
+      "Official Website": "https://az.gov/",
+      "Legislature": "https://www.azleg.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Arkansas",
+      "WDI State": "Q1612",
+      "WDI Legislature": "Q2747168",
+      "Abbreviation": "AR",
+      "Official Website": "https://portal.arkansas.gov/",
+      "Legislature": "https://www.arkleg.state.ar.us/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "California",
+      "WDI State": "Q99",
+      "WDI Legislature": "Q3084210",
+      "Abbreviation": "CA",
+      "Official Website": "https://www.ca.gov/",
+      "Legislature": "https://leginfo.legislature.ca.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Colorado",
+      "WDI State": "Q1261",
+      "WDI Legislature": "Q5148810",
+      "Abbreviation": "CO",
+      "Official Website": "https://www.colorado.gov/",
+      "Legislature": "https://leg.colorado.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Connecticut",
+      "WDI State": "Q779",
+      "WDI Legislature": "Q5161534",
+      "Abbreviation": "CT",
+      "Official Website": "https://portal.ct.gov/",
+      "Legislature": "https://www.cga.ct.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Delaware",
+      "WDI State": "Q1393",
+      "WDI Legislature": "Q5253303",
+      "Abbreviation": "DE",
+      "Official Website": "https://delaware.gov/",
+      "Legislature": "https://legis.delaware.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Florida",
+      "WDI State": "Q812",
+      "WDI Legislature": "Q3556484",
+      "Abbreviation": "FL",
+      "Official Website": "https://www.myflorida.com/",
+      "Legislature": "http://www.leg.state.fl.us/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Georgia",
+      "WDI State": "Q1428",
+      "WDI Legislature": "Q3103766",
+      "Abbreviation": "GA",
+      "Official Website": "https://georgia.gov/",
+      "Legislature": "https://www.legis.ga.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Hawaii",
+      "WDI State": "Q782",
+      "WDI Legislature": "Q5684411",
+      "Abbreviation": "HI",
+      "Official Website": "https://portal.ehawaii.gov/",
+      "Legislature": "https://www.capitol.hawaii.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Idaho",
+      "WDI State": "Q1221",
+      "WDI Legislature": "Q4256974",
+      "Abbreviation": "ID",
+      "Official Website": "https://www.idaho.gov/",
+      "Legislature": "https://legislature.idaho.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Illinois",
+      "WDI State": "Q1204",
+      "WDI Legislature": "Q1437547",
+      "Abbreviation": "IL",
+      "Official Website": "https://www.illinois.gov/",
+      "Legislature": "https://www.ilga.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Indiana",
+      "WDI State": "Q1415",
+      "WDI Legislature": "Q3634937",
+      "Abbreviation": "IN",
+      "Official Website": "https://www.in.gov",
+      "Legislature": "https://iga.in.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Iowa",
+      "WDI State": "Q1546",
+      "WDI Legislature": "Q6064424",
+      "Abbreviation": "IA",
+      "Official Website": "https://www.iowa.gov/",
+      "Legislature": "https://www.legis.iowa.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Kansas",
+      "WDI State": "Q1558",
+      "WDI Legislature": "Q3270271",
+      "Abbreviation": "KS",
+      "Official Website": "https://portal.kansas.gov/",
+      "Legislature": "http://www.kslegislature.org/li/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Kentucky",
+      "WDI State": "Q1603",
+      "WDI Legislature": "Q6392265",
+      "Abbreviation": "KY",
+      "Official Website": "https://www.kentucky.gov/",
+      "Legislature": "https://legislature.ky.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Louisiana",
+      "WDI State": "Q1588",
+      "WDI Legislature": "Q6689290",
+      "Abbreviation": "LA",
+      "Official Website": "https://www.louisiana.gov/",
+      "Legislature": "https://legis.la.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Maine",
+      "WDI State": "Q724",
+      "WDI Legislature": "Q2749841",
+      "Abbreviation": "ME",
+      "Official Website": "https://www.maine.gov/",
+      "Legislature": "https://legislature.maine.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Maryland",
+      "WDI State": "Q1391",
+      "WDI Legislature": "Q10566065",
+      "Abbreviation": "MD",
+      "Official Website": "https://www.maryland.gov/",
+      "Legislature": "https://mgaleg.maryland.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Massachusetts",
+      "WDI State": "Q771",
+      "WDI Legislature": "Q1453540",
+      "Abbreviation": "MA",
+      "Official Website": "https://www.mass.gov/",
+      "Legislature": "https://malegislature.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Michigan",
+      "WDI State": "Q1166",
+      "WDI Legislature": "Q3270273",
+      "Abbreviation": "MI",
+      "Official Website": "https://www.michigan.gov/",
+      "Legislature": "https://www.legislature.mi.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Minnesota",
+      "WDI State": "Q1527",
+      "WDI Legislature": "Q1117432",
+      "Abbreviation": "MN",
+      "Official Website": "https://mn.gov/",
+      "Legislature": "https://www.leg.mn.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Mississippi",
+      "WDI State": "Q1494",
+      "WDI Legislature": "Q6879217",
+      "Abbreviation": "MS",
+      "Official Website": "https://www.ms.gov/",
+      "Legislature": "http://www.legislature.ms.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Missouri",
+      "WDI State": "Q1581",
+      "WDI Legislature": "Q6879566",
+      "Abbreviation": "MO",
+      "Official Website": "https://www.mo.gov/",
+      "Legislature": "https://www.mo.gov/government/legislative-branch/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Montana",
+      "WDI State": "Q1212",
+      "WDI Legislature": "Q3567567",
+      "Abbreviation": "MT",
+      "Official Website": "https://mt.gov/",
+      "Legislature": "https://leg.mt.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Nebraska",
+      "WDI State": "Q1553",
+      "WDI Legislature": "Q996610",
+      "Abbreviation": "NE",
+      "Official Website": "https://www.nebraska.gov/",
+      "Legislature": "https://nebraskalegislature.gov/",
+      "Kind": "Unicameral"
+    },
+    {
+      "State": "Nevada",
+      "WDI State": "Q1227",
+      "WDI Legislature": "Q3555619",
+      "Abbreviation": "NV",
+      "Official Website": "https://nv.gov/",
+      "Legislature": "https://www.leg.state.nv.us/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "New Hampshire",
+      "WDI State": "Q759",
+      "WDI Legislature": "Q7008154",
+      "Abbreviation": "NH",
+      "Official Website": "https://www.nh.gov/",
+      "Legislature": "https://gencourt.state.nh.us/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "New Jersey",
+      "WDI State": "Q1408",
+      "WDI Legislature": "Q2867079",
+      "Abbreviation": "NJ",
+      "Official Website": "https://nj.gov/",
+      "Legislature": "https://www.njleg.state.nj.us/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "New Mexico",
+      "WDI State": "Q1522",
+      "WDI Legislature": "Q7010195",
+      "Abbreviation": "NM",
+      "Official Website": "https://www.nm.gov/",
+      "Legislature": "https://www.nmlegis.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "New York",
+      "WDI State": "Q1384",
+      "WDI Legislature": "Q3270268",
+      "Abbreviation": "NY",
+      "Official Website": "https://www.ny.gov/",
+      "Legislature": "https://nyassembly.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "North Carolina",
+      "WDI State": "Q1454",
+      "WDI Legislature": "Q10566263",
+      "Abbreviation": "NC",
+      "Official Website": "https://www.nc.gov/",
+      "Legislature": "https://www.ncleg.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "North Dakota",
+      "WDI State": "Q1207",
+      "WDI Legislature": "Q7055026",
+      "Abbreviation": "ND",
+      "Official Website": "https://www.nd.gov/",
+      "Legislature": "https://www.ndlegis.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Ohio",
+      "WDI State": "Q1397",
+      "WDI Legislature": "Q7080820",
+      "Abbreviation": "OH",
+      "Official Website": "https://ohio.gov/",
+      "Legislature": "https://www.legislature.ohio.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Oklahoma",
+      "WDI State": "Q1649",
+      "WDI Legislature": "Q583952",
+      "Abbreviation": "OK",
+      "Official Website": "https://oklahoma.gov/",
+      "Legislature": "http://www.oklegislature.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Oregon",
+      "WDI State": "Q824",
+      "WDI Legislature": "Q7101257",
+      "Abbreviation": "OR",
+      "Official Website": "https://www.oregon.gov/",
+      "Legislature": "https://www.oregonlegislature.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Pennsylvania",
+      "WDI State": "Q1400",
+      "WDI Legislature": "Q2867077",
+      "Abbreviation": "PA",
+      "Official Website": "https://www.pa.gov/",
+      "Legislature": "https://www.legis.state.pa.us/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Rhode Island",
+      "WDI State": "Q1387",
+      "WDI Legislature": "Q7320919",
+      "Abbreviation": "RI",
+      "Official Website": "https://www.ri.gov/",
+      "Legislature": "https://www.rilegislature.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "South Carolina",
+      "WDI State": "Q1456",
+      "WDI Legislature": "Q980284",
+      "Abbreviation": "SC",
+      "Official Website": "https://sc.gov/",
+      "Legislature": "https://www.scstatehouse.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "South Dakota",
+      "WDI State": "Q1211",
+      "WDI Legislature": "Q2304409",
+      "Abbreviation": "SD",
+      "Official Website": "https://www.sd.gov/cs",
+      "Legislature": "https://sdlegislature.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Tennessee",
+      "WDI State": "Q1509",
+      "WDI Legislature": "Q7700086",
+      "Abbreviation": "TN",
+      "Official Website": "https://www.tn.gov/",
+      "Legislature": "https://www.capitol.tn.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Texas",
+      "WDI State": "Q1439",
+      "WDI Legislature": "Q2653964",
+      "Abbreviation": "TX",
+      "Official Website": "https://www.texas.gov/",
+      "Legislature": "https://capitol.texas.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Utah",
+      "WDI State": "Q829",
+      "WDI Legislature": "Q2384499",
+      "Abbreviation": "UT",
+      "Official Website": "https://www.utah.gov",
+      "Legislature": "https://le.utah.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Vermont",
+      "WDI State": "Q16551",
+      "WDI Legislature": "Q2867076",
+      "Abbreviation": "VT",
+      "Official Website": "https://www.vermont.gov/",
+      "Legislature": "https://legislature.vermont.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Virginia",
+      "WDI State": "Q1370",
+      "WDI Legislature": "Q530970",
+      "Abbreviation": "VA",
+      "Official Website": "https://www.virginia.gov/",
+      "Legislature": "https://virginiageneralassembly.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Washington",
+      "WDI State": "Q1223",
+      "WDI Legislature": "Q7972258",
+      "Abbreviation": "WA",
+      "Official Website": "https://wa.gov/",
+      "Legislature": "https://leg.wa.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "West Virginia",
+      "WDI State": "Q1371",
+      "WDI Legislature": "Q7986861",
+      "Abbreviation": "WV",
+      "Official Website": "https://www.wv.gov/",
+      "Legislature": "https://www.wvlegislature.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Wisconsin",
+      "WDI State": "Q1537",
+      "WDI Legislature": "Q3270274",
+      "Abbreviation": "WI",
+      "Official Website": "http://www.wisconsin.gov/",
+      "Legislature": "https://legis.wisconsin.gov/",
+      "Kind": "Bicameral"
+    },
+    {
+      "State": "Wyoming",
+      "WDI State": "Q1214",
+      "WDI Legislature": "Q3270276",
+      "Abbreviation": "WY",
+      "Official Website": "https://www.wyo.gov/",
+      "Legislature": "https://www.wyoleg.gov/",
+      "Kind": "Bicameral"
+    }
+  ]
+  
