@@ -3,7 +3,6 @@ import * as Plot from "@observablehq/plot";
 import PlotFigure from './PlotFigure';
 import penguins from '@/data/penguins.json';
 
-import { SiteHeader } from '@/components/SiteHeader';
 import { Stat } from "@/components/Stat";
 import { Card } from "@/components/Card";
 import { Bill } from "@/components/Bill";
@@ -11,8 +10,6 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { StateNav } from "@/components/StateNav";
 
 export default function Home() {
-	{/* <BreadcrumbItem href="#">States</BreadcrumbItem>
-					<BreadcrumbItem href="#" isLast>Texas</BreadcrumbItem> */}
 	return (<>
 		<div className='flex flex-col gap-8 py-8 px-24'>
 			<Breadcrumbs items={[
