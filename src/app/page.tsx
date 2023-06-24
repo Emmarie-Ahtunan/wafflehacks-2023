@@ -42,19 +42,25 @@ export default function Home() {
 					<Bill
 						uniqueId="HR155"
 						type="House Resolution"
-						desc="Recognizing February 14, 2023, as Texas LGBTQ Chambers of Commerce Advocacy Day at the State Capitol." />
+						desc="Recognizing February 14, 2023, as Texas LGBTQ Chambers of Commerce Advocacy Day at the State Capitol."
+						status={"Pass"} />
 					<Bill
 						uniqueId="HB428"
 						type="House Bill"
-						desc="Relating to the creation of a task force to evaluate the housing needs of senior citizens who are lesbian, gay, bisexual, transgender, queer, or questioning." />
+						desc="Relating to the creation of a task force to evaluate the housing needs of senior citizens who are lesbian, gay, bisexual, transgender, queer, or questioning."
+						status={"Intro"}
+						isRecessed />
 					<Bill
 						uniqueId="SR3"
 						type="Senate Resolution"
-						desc="Recognizing Resource Center on the occasion of its 40th anniversary." />
+						desc="Recognizing Resource Center on the occasion of its 40th anniversary."
+						status={"Pass"} />
 					<Bill
 						uniqueId="HR85"
 						type="House Resolution"
-						desc="Honoring Victor L. Holmes and Mark A. Phariss of Plano for their civic engagement and contributions to the LGBTQ+ community." />
+						desc="Honoring Victor L. Holmes and Mark A. Phariss of Plano for their civic engagement and contributions to the LGBTQ+ community."
+						status={"Intro"}
+						isRecessed />
 				</div>
 			</section>
 		</div>
