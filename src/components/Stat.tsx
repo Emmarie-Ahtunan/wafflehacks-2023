@@ -50,9 +50,11 @@ export type TrendColorRecord = {negative: ChipColor, positive: ChipColor}
 export type ColorVision =
 	| 'regular' // trichromatic
 	| 'deuteranopia' // red-green color blindness
+	| 'tritanopia' // blue-yellow color blindness
 export const TrendColorMap: Record<ColorVision, TrendColorRecord> = {
 	regular: { positive: 'green', negative: 'red' },
-	deuteranopia: { positive: 'blue', negative: 'orange' }
+	deuteranopia: { positive: 'blue', negative: 'orange' },
+	tritanopia: { positive: 'blue', negative: 'red' },
 }
 
 export type StatTrendingProps = ChipProps & {
