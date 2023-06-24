@@ -1,5 +1,4 @@
-import { Check, Clock, Page } from "iconoir-react";
-import { twMerge } from "tailwind-merge";
+import { Page } from "iconoir-react";
 
 import { truncateString } from "@/utils";
 
@@ -31,7 +30,7 @@ export const Bill = ({
 	type,
 	desc,
 	status,
-	isRecessed = false,
+	//isRecessed = false,
 	...props
 }: BillProps) => {
 	return (
