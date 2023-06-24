@@ -14,7 +14,6 @@ export default function Home() {
 	{/* <BreadcrumbItem href="#">States</BreadcrumbItem>
 					<BreadcrumbItem href="#" isLast>Texas</BreadcrumbItem> */}
 	return (<>
-		<SiteHeader />
 		<div className='flex flex-col gap-8 py-8 px-24'>
 			<Breadcrumbs items={[
 				{ children: 'States', href: "#" },
