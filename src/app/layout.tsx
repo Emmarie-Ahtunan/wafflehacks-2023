@@ -1,6 +1,8 @@
-import { SiteHeader } from '@/components/SiteHeader'
 import './globals.css'
+
 import { Inter } from 'next/font/google'
+
+import { SiteHeader } from '@/components/SiteHeader'
 
 const inter = Inter({ subsets: ['latin'] })
 

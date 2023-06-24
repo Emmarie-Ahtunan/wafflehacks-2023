@@ -1,13 +1,13 @@
 import * as Plot from "@observablehq/plot";
 
-import PlotFigure from './PlotFigure';
-import penguins from '@/data/penguins.json';
-
-import { Stat } from "@/components/Stat";
-import { Card } from "@/components/Card";
 import { Bill } from "@/components/Bill";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { Card } from "@/components/Card";
+import { Stat } from "@/components/Stat";
 import { StateNav } from "@/components/StateNav";
+import penguins from '@/data/penguins.json';
+
+import PlotFigure from './PlotFigure';
 
 export default function Home() {
 	return (<>

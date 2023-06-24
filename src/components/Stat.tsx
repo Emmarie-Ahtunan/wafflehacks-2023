@@ -1,5 +1,6 @@
 import { InfoEmpty, StatDown, StatUp } from "iconoir-react"
 import { SectionProps } from "react-html-props"
+
 import { Chip, ChipColor, ChipProps } from "./Chip"
 
 export type StatValue = number|string

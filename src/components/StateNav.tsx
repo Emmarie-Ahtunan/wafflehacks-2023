@@ -1,5 +1,6 @@
 import { ArrowLeft, ArrowRight } from "iconoir-react";
 import { HeaderProps, NavProps } from "react-html-props";
+
 import { Chip } from "./Chip";
 
 export type StateNavProps = HeaderProps & {

@@ -1,5 +1,5 @@
 import { User } from "iconoir-react"
-import { LIProps, NavProps, HeaderProps as HtmlHeaderProps } from "react-html-props"
+import { HeaderProps as HtmlHeaderProps,LIProps, NavProps } from "react-html-props"
 
 export type SiteHeaderProps = HtmlHeaderProps
 export const SiteHeader = () => {
