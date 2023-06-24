@@ -1,7 +1,6 @@
 import * as Plot from "@observablehq/plot";
 
 import { Bill } from "@/components/Bill";
-import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Card } from "@/components/Card";
 import { Stat } from "@/components/Stat";
 import { StateNav } from "@/components/StateNav";
@@ -37,16 +36,27 @@ export default function Home() {
 						trending={-0.5} />
 				</Card>
 			</div>
-			<div className="grid grid-cols-2 gap-4">
-				<Bill
-					uniqueId="HR155"
-					type="House Resolution"
-					desc="Recognizing February 14, 2023, as Texas LGBTQ Chambers of Commerce Advocacy Day at the State Capitol." />
-				<Bill
-					uniqueId="HB428"
-					type="House Bill"
-					desc="Relating to the creation of a task force to evaluate the housing needs of senior citizens who are lesbian, gay, bisexual, transgender, queer, or questioning." />
-			</div>
+			<section className="flex flex-col gap-4">
+				<h3 className="text-2xl">Bills</h3>
+				<div className="grid grid-cols-2 gap-4">
+					<Bill
+						uniqueId="HR155"
+						type="House Resolution"
+						desc="Recognizing February 14, 2023, as Texas LGBTQ Chambers of Commerce Advocacy Day at the State Capitol." />
+					<Bill
+						uniqueId="HB428"
+						type="House Bill"
+						desc="Relating to the creation of a task force to evaluate the housing needs of senior citizens who are lesbian, gay, bisexual, transgender, queer, or questioning." />
+					<Bill
+						uniqueId="SR3"
+						type="Senate Resolution"
+						desc="Recognizing Resource Center on the occasion of its 40th anniversary." />
+					<Bill
+						uniqueId="HR85"
+						type="House Resolution"
+						desc="Honoring Victor L. Holmes and Mark A. Phariss of Plano for their civic engagement and contributions to the LGBTQ+ community." />
+				</div>
+			</section>
 		</div>
 	</>)
 }
