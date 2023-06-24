@@ -2,6 +2,7 @@ import './globals.css'
 
 import { Inter } from 'next/font/google'
 
+import { Breadcrumbs } from '@/components/Breadcrumbs'
 import { SiteHeader } from '@/components/SiteHeader'
 
 const inter = Inter({ subsets: ['latin'] })
@@ -21,6 +22,10 @@ export default function RootLayout({
       <body className={inter.className}>
         <SiteHeader />
         <main className="flex min-h-screen flex-col">
+          <Breadcrumbs className="px-24 pt-8" items={[
+            { children: 'States', href: "#" },
+            { children: 'Texas', href: "#", isLast: true }
+          ]} />
           {children}
         </main>
       </body>

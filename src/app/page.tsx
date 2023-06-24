@@ -12,10 +12,6 @@ import PlotFigure from './PlotFigure';
 export default function Home() {
 	return (<>
 		<div className='flex flex-col gap-8 py-8 px-24'>
-			<Breadcrumbs items={[
-				{ children: 'States', href: "#" },
-				{ children: 'Texas', href: "#", isLast: true }
-			]} />
 			<StateNav stateCode="TX" stateName="Texas" prev="Tennessee" next="Utah" />
 			<div className="flex flex-row gap-4">
 				<Card>
