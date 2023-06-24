@@ -41,8 +41,8 @@ type StatePrimaryKeys = {
     names: string[],
 }
 function getUsStatePrimaryKeys(states: UsState[]): StatePrimaryKeys {
-    let usStateCodes: string[] = [];
-    let usStateNames: string[] = [];
+    const usStateCodes: string[] = [];
+    const usStateNames: string[] = [];
 
     for(const usState of states) {
         usStateCodes.push(usState.Abbreviation);

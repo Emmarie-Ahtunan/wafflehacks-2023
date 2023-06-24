@@ -6,7 +6,6 @@ export type BreadcrumbsProps = NavProps & {
 }
 
 export const Breadcrumbs = ({items, ...props}: BreadcrumbsProps) => {
-	const itemLength = items.length;
 	return (
 		<nav aria-label={props["aria-label"] ?? 'Breadcrumbs'} {...props}>
 			<ol className="flex flex-row">

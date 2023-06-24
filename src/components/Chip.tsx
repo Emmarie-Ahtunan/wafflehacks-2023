@@ -43,7 +43,6 @@ export const ChipColorMap: Record<ChipColor, ChipColorRecord> = {
 export const Chip = ({
 	children,
 	className,
-	size = 'normal',
 	color = 'slate',
 	withCircle = false,
 	roundKind = 'round',
